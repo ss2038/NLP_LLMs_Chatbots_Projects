@@ -21,11 +21,10 @@ Welcome to the world of Natural Language Processing (NLP), Language Models (LLMs
 
 ## Connect & Collaborate
 
-Join us in exploring the exciting frontier of NLP, LLMs, and Chatbots! We welcome collaborators and enthusiasts to contribute, share insights, and discuss the evolving landscape of language technologies. 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/waqas-ahmed006/) to share your thoughts.
+Join us in exploring the exciting frontier of NLP, LLMs, and Chatbots! We welcome collaborators and enthusiasts to contribute, share insights, and discuss the evolving landscape of language technologies.
 
 ## Contact
 
-For inquiries or collaboration opportunities related to NLP, LLMs, or Chatbots, feel free to drop me an email at [waqasahmed@xactmind.com].
 
 Let the language magic and conversational AI exploration begin! 📜✨
 
